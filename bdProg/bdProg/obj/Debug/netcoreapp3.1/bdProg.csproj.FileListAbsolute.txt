@@ -1,0 +1,15 @@
+C:\Users\taiwa\source\repos\bdProg\bdProg\bin\Debug\netcoreapp3.1\bdProg.exe
+C:\Users\taiwa\source\repos\bdProg\bdProg\bin\Debug\netcoreapp3.1\bdProg.deps.json
+C:\Users\taiwa\source\repos\bdProg\bdProg\bin\Debug\netcoreapp3.1\bdProg.runtimeconfig.json
+C:\Users\taiwa\source\repos\bdProg\bdProg\bin\Debug\netcoreapp3.1\bdProg.runtimeconfig.dev.json
+C:\Users\taiwa\source\repos\bdProg\bdProg\bin\Debug\netcoreapp3.1\bdProg.dll
+C:\Users\taiwa\source\repos\bdProg\bdProg\bin\Debug\netcoreapp3.1\bdProg.pdb
+C:\Users\taiwa\source\repos\bdProg\bdProg\obj\Debug\netcoreapp3.1\bdProg.csprojAssemblyReference.cache
+C:\Users\taiwa\source\repos\bdProg\bdProg\obj\Debug\netcoreapp3.1\bdProg.Form1.resources
+C:\Users\taiwa\source\repos\bdProg\bdProg\obj\Debug\netcoreapp3.1\bdProg.csproj.GenerateResource.cache
+C:\Users\taiwa\source\repos\bdProg\bdProg\obj\Debug\netcoreapp3.1\bdProg.AssemblyInfoInputs.cache
+C:\Users\taiwa\source\repos\bdProg\bdProg\obj\Debug\netcoreapp3.1\bdProg.AssemblyInfo.cs
+C:\Users\taiwa\source\repos\bdProg\bdProg\obj\Debug\netcoreapp3.1\bdProg.csproj.CoreCompileInputs.cache
+C:\Users\taiwa\source\repos\bdProg\bdProg\obj\Debug\netcoreapp3.1\bdProg.dll
+C:\Users\taiwa\source\repos\bdProg\bdProg\obj\Debug\netcoreapp3.1\bdProg.pdb
+C:\Users\taiwa\source\repos\bdProg\bdProg\obj\Debug\netcoreapp3.1\bdProg.genruntimeconfig.cache
